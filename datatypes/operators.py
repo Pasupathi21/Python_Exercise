@@ -1,7 +1,7 @@
 # PEMDASLR
 
 # P - Paranthesis
-# E - Exponen
+# E - Exponent
 # M - Muliplication
 # D - Division
 # A - Addition
