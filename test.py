@@ -8,3 +8,9 @@ try:
     hello = 'Hi'
 except NameError as NE:
     print('NameError: Variable declaration issue')
+
+print("set >>", len({
+    1,
+    "2",
+    "21"
+}))
