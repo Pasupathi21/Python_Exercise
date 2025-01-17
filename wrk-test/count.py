@@ -25037,11 +25037,12 @@ data = {
         ]
 }
 
-def item_json(obj):
-    return_obj = {}
-    for key, val in obj.item()
+# def item_json(obj):
+#     return_obj = {}
+#     for key, val in obj.item():
+        
 
 for item in data["product"]:
     print(json.loads(item))
-    # for key, val in json.dumps(item):
-    #     print("key >>>>",key, "val >>>>>", val)
+    for key, val in json.dumps(item):
+        print("key >>>>",key, "val >>>>>", val)
